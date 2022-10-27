@@ -1,0 +1,11 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/rezakhani1376/server
+
+[submodule "client"]
+	path = client
+	url = https://github.com/rezakhani1376/client
+
+[submodule "rtmpserver"]
+	path = rtmpserver
+	url = https://github.com/rezakhani1376/rtmpserver
